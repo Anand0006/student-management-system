@@ -1,0 +1,601 @@
+Roll_No,Name,Gender,Marks,City,Department,Course
+GU2023EC0001,Tushar Pandey,Male,73,Agra,Electronics,B.Tech ECE
+GU2025CA0002,Rohan Iyer,Male,55,Delhi,Computer Applications,MCA
+GU2025ME0003,Anjali Mishra,Female,83,Delhi,Mechanical,B.Tech ME
+GU2024CA0004,Anjali Sharma,Female,69,Mumbai,Computer Applications,BCA
+GU2023EC0005,Harsh Reddy,Male,61,Varanasi,Electronics,B.Tech ECE
+GU2025EC0006,Aanya Tiwari,Female,57,Jaipur,Electronics,B.Tech ECE
+GU2023CA0007,Kavya Rawat,Female,75,Greater Noida,Computer Applications,BCA
+GU2024MG0008,Vivek Reddy,Male,58,Bengaluru,Management,BBA
+GU2024EC0009,Neha Kumar,Female,77,Hyderabad,Electronics,B.Tech ECE
+GU2023MG0010,Arjun Sharma,Male,74,Chennai,Management,BBA
+GU2024MG0011,Suraj Pandey,Male,35,Lucknow,Management,MBA
+GU2023EC0012,Saurabh Pandey,Male,66,Varanasi,Electronics,B.Tech ECE
+GU2023MG0013,Aarav Pandey,Other,49,Ghaziabad,Management,MBA
+GU2025CA0014,Ankit Sharma,Male,83,Mumbai,Computer Applications,BCA
+GU2023MG0015,Rohan Gupta,Male,60,Pune,Management,MBA
+GU2025IT0016,Tushar Reddy,Male,64,Lucknow,Information Technology,B.Tech IT
+GU2023MG0017,Rahul Jha,Male,72,Meerut,Management,MBA
+GU2025CS0018,Simran Reddy,Female,60,Noida,Computer Science,B.Tech CSE
+GU2024EC0019,Vivek Nair,Male,69,Varanasi,Electronics,B.Tech ECE
+GU2023EC0020,Amit Gupta,Male,87,Kanpur,Electronics,B.Tech ECE
+GU2023EC0021,Sahil Sharma,Male,66,Delhi,Electronics,B.Tech ECE
+GU2023CA0022,Manish Patel,Male,81,Noida,Computer Applications,BCA
+GU2025IT0023,Aanya Nair,Female,83,Greater Noida,Information Technology,B.Tech IT
+GU2025EC0024,Ananya Sharma,Female,63,Noida,Electronics,B.Tech ECE
+GU2023EC0025,Aanya Yadav,Female,81,Delhi,Electronics,B.Tech ECE
+GU2023CM0026,Aanya Chauhan,Female,75,Kolkata,Commerce,B.Com
+GU2025CA0027,Priya Reddy,Female,86,Bengaluru,Computer Applications,MCA
+GU2025ME0028,Sneha Gupta,Female,70,Ghaziabad,Mechanical,B.Tech ME
+GU2024IT0029,Simran Patel,Female,47,Noida,Information Technology,B.Tech IT
+GU2023ME0030,Rohan Reddy,Male,76,Kanpur,Mechanical,B.Tech ME
+GU2024CM0031,Anand Reddy,Male,77,Lucknow,Commerce,B.Com
+GU2024CM0032,Aditya Malhotra,Male,61,Kanpur,Commerce,B.Com
+GU2023IT0033,Neha Bhatia,Female,77,Mumbai,Information Technology,B.Tech IT
+GU2025CS0034,Nikhil Verma,Male,60,Noida,Computer Science,B.Tech CSE
+GU2023IT0035,Deepak Kumar,Male,74,Kolkata,Information Technology,B.Tech IT
+GU2024CM0036,Anjali Malhotra,Female,58,Noida,Commerce,M.Com
+GU2025MG0037,Anand Verma,Male,64,Jaipur,Management,BBA
+GU2023CM0038,Simran Malhotra,Female,53,Greater Noida,Commerce,B.Com
+GU2025MG0039,Rahul Verma,Male,72,Pune,Management,MBA
+GU2023CA0040,Deepak Kumar,Male,72,Greater Noida,Computer Applications,BCA
+GU2023MG0041,Ananya Mishra,Female,66,Agra,Management,MBA
+GU2024EC0042,Pranav Yadav,Male,79,Chennai,Electronics,B.Tech ECE
+GU2024CS0043,Tushar Nair,Male,51,Meerut,Computer Science,B.Tech CSE
+GU2024CA0044,Pranav Gupta,Male,72,Mumbai,Computer Applications,BCA
+GU2024IT0045,Rohan Verma,Male,61,Varanasi,Information Technology,B.Tech IT
+GU2023EC0046,Rohan Bhatia,Male,79,Agra,Electronics,B.Tech ECE
+GU2023ME0047,Riya Reddy,Female,94,Chennai,Mechanical,B.Tech ME
+GU2025EC0048,Nisha Nair,Female,68,Jaipur,Electronics,B.Tech ECE
+GU2024MG0049,Sakshi Kumar,Female,54,Meerut,Management,BBA
+GU2025IT0050,Komal Kumar,Female,42,Kolkata,Information Technology,B.Tech IT
+GU2025CS0051,Komal Sharma,Female,57,Delhi,Computer Science,M.Tech CSE
+GU2024ME0052,Divya Singh,Female,78,Noida,Mechanical,B.Tech ME
+GU2024CM0053,Suraj Malhotra,Male,87,Bengaluru,Commerce,B.Com
+GU2024IT0054,Rahul Agarwal,Male,58,Kolkata,Information Technology,B.Tech IT
+GU2023ME0055,Saurabh Desai,Male,74,Greater Noida,Mechanical,B.Tech ME
+GU2024CA0056,Aarav Jha,Male,65,Pune,Computer Applications,BCA
+GU2025CS0057,Tushar Singh,Male,54,Hyderabad,Computer Science,M.Tech CSE
+GU2023CA0058,Komal Desai,Female,55,Meerut,Computer Applications,MCA
+GU2025MG0059,Sakshi Desai,Female,73,Pune,Management,BBA
+GU2023CS0060,Neha Pandey,Female,61,Ghaziabad,Computer Science,M.Tech CSE
+GU2024CS0061,Rohan Kumar,Male,87,Hyderabad,Computer Science,B.Tech CSE
+GU2023ME0062,Aarav Singh,Male,81,Pune,Mechanical,B.Tech ME
+GU2025MG0063,Manish Agarwal,Male,91,Noida,Management,MBA
+GU2025EC0064,Suraj Desai,Male,68,Kolkata,Electronics,B.Tech ECE
+GU2023CS0065,Sahil Mishra,Male,95,Ghaziabad,Computer Science,B.Tech CSE
+GU2023ME0066,Vikram Gupta,Male,66,Mumbai,Mechanical,B.Tech ME
+GU2023EC0067,Nikhil Bhatia,Male,66,Delhi,Electronics,B.Tech ECE
+GU2025MG0068,Vikram Chauhan,Male,67,Pune,Management,BBA
+GU2023EC0069,Kavya Nair,Female,66,Bengaluru,Electronics,B.Tech ECE
+GU2024ME0070,Aditya Kumar,Male,73,Ghaziabad,Mechanical,B.Tech ME
+GU2024CM0071,Simran Yadav,Female,81,Hyderabad,Commerce,B.Com
+GU2024MG0072,Amit Gupta,Male,55,Jaipur,Management,BBA
+GU2023EC0073,Nikhil Desai,Male,71,Jaipur,Electronics,B.Tech ECE
+GU2025IT0074,Divya Mishra,Female,97,Noida,Information Technology,B.Tech IT
+GU2025EC0075,Kavya Rawat,Female,84,Kanpur,Electronics,B.Tech ECE
+GU2025IT0076,Vivek Pandey,Male,70,Bengaluru,Information Technology,B.Tech IT
+GU2025CA0077,Ankit Agarwal,Male,56,Ghaziabad,Computer Applications,BCA
+GU2025CM0078,Sneha Iyer,Female,65,Delhi,Commerce,M.Com
+GU2025EC0079,Amit Reddy,Male,65,Kolkata,Electronics,B.Tech ECE
+GU2024EC0080,Anjali Jha,Female,65,Jaipur,Electronics,B.Tech ECE
+GU2023EC0081,Shreya Jha,Female,77,Delhi,Electronics,B.Tech ECE
+GU2024CM0082,Pranav Verma,Male,69,Bengaluru,Commerce,B.Com
+GU2025CA0083,Karan Bhatia,Male,36,Kanpur,Computer Applications,MCA
+GU2023CA0084,Nisha Yadav,Female,73,Ghaziabad,Computer Applications,BCA
+GU2024CA0085,Sahil Verma,Male,62,Chennai,Computer Applications,MCA
+GU2025CS0086,Ankit Patel,Male,67,Hyderabad,Computer Science,M.Tech CSE
+GU2024IT0087,Riya Tiwari,Female,87,Pune,Information Technology,B.Tech IT
+GU2023IT0088,Divya Patel,Female,85,Varanasi,Information Technology,B.Tech IT
+GU2025MG0089,Karan Nair,Male,89,Delhi,Management,BBA
+GU2023CM0090,Ankit Bhatia,Male,56,Delhi,Commerce,B.Com
+GU2025CA0091,Sneha Gupta,Female,73,Pune,Computer Applications,BCA
+GU2024EC0092,Aditya Agarwal,Male,75,Lucknow,Electronics,B.Tech ECE
+GU2023MG0093,Nisha Desai,Female,49,Bengaluru,Management,BBA
+GU2024MG0094,Anand Agarwal,Male,75,Agra,Management,BBA
+GU2023EC0095,Nisha Agarwal,Female,56,Kolkata,Electronics,B.Tech ECE
+GU2024MG0096,Aarav Gupta,Male,65,Meerut,Management,MBA
+GU2024CM0097,Aditi Agarwal,Female,74,Mumbai,Commerce,B.Com
+GU2025IT0098,Vikram Patel,Male,62,Varanasi,Information Technology,B.Tech IT
+GU2025EC0099,Karan Rawat,Male,75,Pune,Electronics,B.Tech ECE
+GU2024MG0100,Pranav Patel,Male,62,Meerut,Management,MBA
+GU2025CM0101,Sakshi Yadav,Female,61,Chennai,Commerce,M.Com
+GU2023MG0102,Isha Nair,Female,65,Agra,Management,MBA
+GU2025ME0103,Tanvi Gupta,Female,48,Noida,Mechanical,B.Tech ME
+GU2023IT0104,Arjun Agarwal,Male,62,Greater Noida,Information Technology,B.Tech IT
+GU2025CM0105,Saurabh Tiwari,Male,72,Mumbai,Commerce,B.Com
+GU2025MG0106,Aditya Agarwal,Male,88,Lucknow,Management,MBA
+GU2023EC0107,Sneha Desai,Female,49,Pune,Electronics,B.Tech ECE
+GU2025MG0108,Sneha Malhotra,Female,80,Greater Noida,Management,BBA
+GU2024ME0109,Kavya Bhatia,Female,76,Agra,Mechanical,B.Tech ME
+GU2024CM0110,Aanya Pandey,Female,63,Hyderabad,Commerce,M.Com
+GU2024ME0111,Vivek Reddy,Male,67,Lucknow,Mechanical,B.Tech ME
+GU2025MG0112,Nisha Sharma,Female,58,Kolkata,Management,BBA
+GU2024MG0113,Sahil Mishra,Male,70,Kolkata,Management,BBA
+GU2023ME0114,Ankit Rawat,Male,77,Jaipur,Mechanical,B.Tech ME
+GU2024CM0115,Aditi Rawat,Female,57,Noida,Commerce,M.Com
+GU2024EC0116,Sahil Yadav,Male,51,Varanasi,Electronics,B.Tech ECE
+GU2024MG0117,Isha Sharma,Female,79,Kanpur,Management,BBA
+GU2023CM0118,Pooja Bhatia,Female,61,Mumbai,Commerce,M.Com
+GU2025CS0119,Komal Yadav,Female,67,Delhi,Computer Science,M.Tech CSE
+GU2023CS0120,Rahul Yadav,Male,51,Pune,Computer Science,B.Tech CSE
+GU2025IT0121,Nisha Gupta,Female,48,Jaipur,Information Technology,B.Tech IT
+GU2023CA0122,Rohan Malhotra,Male,56,Delhi,Computer Applications,BCA
+GU2024ME0123,Pooja Jha,Female,66,Jaipur,Mechanical,B.Tech ME
+GU2025EC0124,Rahul Singh,Male,72,Bengaluru,Electronics,B.Tech ECE
+GU2023CM0125,Kavya Malhotra,Female,80,Kolkata,Commerce,M.Com
+GU2025CS0126,Nisha Sharma,Female,54,Meerut,Computer Science,M.Tech CSE
+GU2025ME0127,Pranav Iyer,Male,65,Bengaluru,Mechanical,B.Tech ME
+GU2025ME0128,Sahil Rawat,Male,78,Ghaziabad,Mechanical,B.Tech ME
+GU2025IT0129,Divya Reddy,Female,60,Bengaluru,Information Technology,B.Tech IT
+GU2025CA0130,Arjun Yadav,Male,58,Agra,Computer Applications,BCA
+GU2025CS0131,Vikram Patel,Male,75,Agra,Computer Science,B.Tech CSE
+GU2024CA0132,Rohan Agarwal,Male,73,Lucknow,Computer Applications,MCA
+GU2024CM0133,Simran Reddy,Female,83,Bengaluru,Commerce,B.Com
+GU2025ME0134,Karan Desai,Other,60,Greater Noida,Mechanical,B.Tech ME
+GU2023IT0135,Harsh Malhotra,Male,60,Mumbai,Information Technology,B.Tech IT
+GU2024MG0136,Anjali Mishra,Female,65,Jaipur,Management,MBA
+GU2023ME0137,Manish Nair,Male,61,Meerut,Mechanical,B.Tech ME
+GU2023ME0138,Neha Gupta,Female,64,Kanpur,Mechanical,B.Tech ME
+GU2024EC0139,Aanya Gupta,Female,65,Chennai,Electronics,B.Tech ECE
+GU2025CM0140,Tushar Iyer,Male,93,Noida,Commerce,B.Com
+GU2023ME0141,Aditya Desai,Male,84,Jaipur,Mechanical,B.Tech ME
+GU2023CM0142,Tushar Chauhan,Male,84,Agra,Commerce,M.Com
+GU2025ME0143,Pranav Mishra,Male,81,Bengaluru,Mechanical,B.Tech ME
+GU2023ME0144,Saurabh Malhotra,Male,83,Lucknow,Mechanical,B.Tech ME
+GU2024ME0145,Pranav Mishra,Male,59,Mumbai,Mechanical,B.Tech ME
+GU2024CA0146,Riya Rawat,Female,67,Ghaziabad,Computer Applications,BCA
+GU2024EC0147,Anand Patel,Male,68,Chennai,Electronics,B.Tech ECE
+GU2023MG0148,Kavya Patel,Female,54,Mumbai,Management,MBA
+GU2023ME0149,Aarav Agarwal,Male,63,Hyderabad,Mechanical,B.Tech ME
+GU2023CM0150,Shreya Patel,Female,84,Kanpur,Commerce,M.Com
+GU2024CA0151,Pranav Verma,Male,63,Kanpur,Computer Applications,MCA
+GU2025ME0152,Isha Gupta,Female,54,Pune,Mechanical,B.Tech ME
+GU2025MG0153,Pooja Tiwari,Female,68,Noida,Management,MBA
+GU2024CA0154,Suraj Patel,Male,52,Greater Noida,Computer Applications,BCA
+GU2023IT0155,Priya Agarwal,Female,92,Bengaluru,Information Technology,B.Tech IT
+GU2024CS0156,Isha Verma,Female,78,Greater Noida,Computer Science,M.Tech CSE
+GU2024EC0157,Deepak Yadav,Male,74,Delhi,Electronics,B.Tech ECE
+GU2023CS0158,Diya Reddy,Female,62,Agra,Computer Science,M.Tech CSE
+GU2023CM0159,Isha Pandey,Female,62,Mumbai,Commerce,B.Com
+GU2025IT0160,Riya Agarwal,Female,60,Chennai,Information Technology,B.Tech IT
+GU2025EC0161,Harsh Singh,Male,65,Kanpur,Electronics,B.Tech ECE
+GU2023ME0162,Diya Nair,Female,59,Kanpur,Mechanical,B.Tech ME
+GU2025IT0163,Meera Yadav,Female,61,Noida,Information Technology,B.Tech IT
+GU2025EC0164,Ananya Sharma,Female,56,Jaipur,Electronics,B.Tech ECE
+GU2023ME0165,Tushar Gupta,Male,64,Kanpur,Mechanical,B.Tech ME
+GU2023CS0166,Priya Mishra,Female,88,Delhi,Computer Science,M.Tech CSE
+GU2023ME0167,Divya Rawat,Female,81,Agra,Mechanical,B.Tech ME
+GU2025CA0168,Deepak Verma,Male,62,Jaipur,Computer Applications,MCA
+GU2025ME0169,Pooja Singh,Female,52,Varanasi,Mechanical,B.Tech ME
+GU2025MG0170,Suraj Tiwari,Male,75,Kolkata,Management,BBA
+GU2024IT0171,Vivek Patel,Male,73,Lucknow,Information Technology,B.Tech IT
+GU2024ME0172,Tanvi Nair,Female,63,Varanasi,Mechanical,B.Tech ME
+GU2025MG0173,Amit Patel,Male,48,Kanpur,Management,BBA
+GU2025ME0174,Saurabh Verma,Male,62,Mumbai,Mechanical,B.Tech ME
+GU2025MG0175,Aditi Gupta,Female,71,Varanasi,Management,MBA
+GU2023CS0176,Anand Malhotra,Male,61,Mumbai,Computer Science,B.Tech CSE
+GU2023EC0177,Sahil Verma,Male,48,Lucknow,Electronics,B.Tech ECE
+GU2023CS0178,Ananya Sharma,Female,69,Hyderabad,Computer Science,M.Tech CSE
+GU2024ME0179,Suraj Jha,Male,64,Delhi,Mechanical,B.Tech ME
+GU2023CM0180,Arjun Iyer,Male,70,Hyderabad,Commerce,B.Com
+GU2024EC0181,Diya Jha,Female,94,Meerut,Electronics,B.Tech ECE
+GU2025CA0182,Vivek Agarwal,Male,59,Agra,Computer Applications,BCA
+GU2024EC0183,Neha Rawat,Female,70,Pune,Electronics,B.Tech ECE
+GU2023CS0184,Pooja Reddy,Female,60,Bengaluru,Computer Science,B.Tech CSE
+GU2024CS0185,Aditi Malhotra,Female,86,Kolkata,Computer Science,M.Tech CSE
+GU2024CS0186,Vivek Kumar,Male,67,Varanasi,Computer Science,M.Tech CSE
+GU2024ME0187,Ankit Nair,Male,52,Meerut,Mechanical,B.Tech ME
+GU2023IT0188,Rahul Chauhan,Male,61,Kanpur,Information Technology,B.Tech IT
+GU2024CM0189,Aditya Rawat,Male,90,Mumbai,Commerce,B.Com
+GU2024IT0190,Anand Tiwari,Male,80,Delhi,Information Technology,B.Tech IT
+GU2023CS0191,Rahul Verma,Male,63,Lucknow,Computer Science,B.Tech CSE
+GU2023ME0192,Vikram Rawat,Male,80,Meerut,Mechanical,B.Tech ME
+GU2023MG0193,Nisha Rawat,Female,50,Kanpur,Management,MBA
+GU2023CA0194,Anand Pandey,Male,84,Delhi,Computer Applications,MCA
+GU2023MG0195,Aditi Patel,Female,80,Jaipur,Management,BBA
+GU2025CM0196,Neha Iyer,Female,38,Pune,Commerce,B.Com
+GU2025CM0197,Diya Tiwari,Female,67,Ghaziabad,Commerce,B.Com
+GU2024EC0198,Pranav Agarwal,Male,89,Kolkata,Electronics,B.Tech ECE
+GU2024CM0199,Pranav Pandey,Male,69,Kanpur,Commerce,M.Com
+GU2024ME0200,Tanvi Yadav,Female,57,Varanasi,Mechanical,B.Tech ME
+GU2023CM0201,Priya Rawat,Female,65,Bengaluru,Commerce,M.Com
+GU2024IT0202,Tushar Jha,Male,71,Mumbai,Information Technology,B.Tech IT
+GU2024IT0203,Nikhil Agarwal,Male,59,Agra,Information Technology,B.Tech IT
+GU2023CM0204,Aditya Chauhan,Male,64,Meerut,Commerce,M.Com
+GU2024MG0205,Anjali Iyer,Female,65,Noida,Management,BBA
+GU2023MG0206,Simran Rawat,Female,65,Lucknow,Management,MBA
+GU2023CM0207,Nikhil Reddy,Male,73,Kanpur,Commerce,M.Com
+GU2024IT0208,Aarav Iyer,Male,74,Greater Noida,Information Technology,B.Tech IT
+GU2025CS0209,Sakshi Gupta,Female,79,Mumbai,Computer Science,M.Tech CSE
+GU2025IT0210,Aarav Agarwal,Male,46,Meerut,Information Technology,B.Tech IT
+GU2023CM0211,Neha Mishra,Female,59,Jaipur,Commerce,M.Com
+GU2023IT0212,Suraj Reddy,Male,84,Kanpur,Information Technology,B.Tech IT
+GU2023IT0213,Komal Yadav,Female,90,Jaipur,Information Technology,B.Tech IT
+GU2023CA0214,Deepak Verma,Male,66,Hyderabad,Computer Applications,MCA
+GU2025MG0215,Ankit Rawat,Male,67,Varanasi,Management,MBA
+GU2024CM0216,Aditya Mishra,Male,50,Meerut,Commerce,M.Com
+GU2025MG0217,Tanvi Yadav,Female,67,Agra,Management,BBA
+GU2025CS0218,Harsh Tiwari,Male,59,Agra,Computer Science,B.Tech CSE
+GU2025CA0219,Riya Kumar,Female,67,Bengaluru,Computer Applications,MCA
+GU2023EC0220,Arjun Verma,Male,77,Jaipur,Electronics,B.Tech ECE
+GU2024IT0221,Aarav Iyer,Male,70,Chennai,Information Technology,B.Tech IT
+GU2023MG0222,Anand Bhatia,Male,72,Bengaluru,Management,MBA
+GU2023CM0223,Riya Malhotra,Female,76,Varanasi,Commerce,B.Com
+GU2024EC0224,Aditya Sharma,Male,55,Lucknow,Electronics,B.Tech ECE
+GU2024IT0225,Karan Gupta,Male,73,Delhi,Information Technology,B.Tech IT
+GU2023CS0226,Harsh Gupta,Male,82,Agra,Computer Science,B.Tech CSE
+GU2024IT0227,Sahil Bhatia,Male,79,Bengaluru,Information Technology,B.Tech IT
+GU2024ME0228,Anand Desai,Male,70,Varanasi,Mechanical,B.Tech ME
+GU2025CS0229,Nisha Patel,Female,91,Agra,Computer Science,M.Tech CSE
+GU2023ME0230,Meera Chauhan,Female,75,Jaipur,Mechanical,B.Tech ME
+GU2024CA0231,Sahil Gupta,Male,83,Kanpur,Computer Applications,MCA
+GU2024MG0232,Suraj Singh,Male,69,Bengaluru,Management,MBA
+GU2023MG0233,Anand Sharma,Male,60,Bengaluru,Management,MBA
+GU2025CM0234,Ankit Chauhan,Male,64,Chennai,Commerce,M.Com
+GU2023IT0235,Aditya Desai,Male,67,Agra,Information Technology,B.Tech IT
+GU2025CS0236,Sakshi Jha,Female,76,Meerut,Computer Science,B.Tech CSE
+GU2024CS0237,Rahul Chauhan,Male,69,Bengaluru,Computer Science,M.Tech CSE
+GU2023ME0238,Aditya Iyer,Male,70,Greater Noida,Mechanical,B.Tech ME
+GU2025CS0239,Tushar Singh,Male,81,Kanpur,Computer Science,M.Tech CSE
+GU2023EC0240,Pooja Kumar,Female,67,Bengaluru,Electronics,B.Tech ECE
+GU2023IT0241,Komal Sharma,Female,66,Delhi,Information Technology,B.Tech IT
+GU2025CS0242,Tanvi Nair,Female,50,Ghaziabad,Computer Science,M.Tech CSE
+GU2024CA0243,Vikram Bhatia,Male,56,Delhi,Computer Applications,MCA
+GU2024ME0244,Nisha Malhotra,Female,68,Delhi,Mechanical,B.Tech ME
+GU2024ME0245,Riya Iyer,Female,64,Mumbai,Mechanical,B.Tech ME
+GU2023CS0246,Pranav Verma,Other,76,Kolkata,Computer Science,M.Tech CSE
+GU2023CA0247,Rahul Singh,Male,35,Noida,Computer Applications,BCA
+GU2024CS0248,Meera Nair,Female,65,Chennai,Computer Science,B.Tech CSE
+GU2024CS0249,Neha Reddy,Female,77,Ghaziabad,Computer Science,B.Tech CSE
+GU2023ME0250,Aditi Tiwari,Female,66,Kolkata,Mechanical,B.Tech ME
+GU2023MG0251,Sakshi Gupta,Female,71,Mumbai,Management,BBA
+GU2023CA0252,Isha Jha,Female,61,Hyderabad,Computer Applications,MCA
+GU2024CS0253,Anand Malhotra,Male,100,Meerut,Computer Science,M.Tech CSE
+GU2025ME0254,Neha Iyer,Female,84,Hyderabad,Mechanical,B.Tech ME
+GU2025EC0255,Aanya Kumar,Female,53,Agra,Electronics,B.Tech ECE
+GU2023MG0256,Tushar Malhotra,Male,57,Lucknow,Management,BBA
+GU2025IT0257,Nikhil Desai,Male,63,Noida,Information Technology,B.Tech IT
+GU2024CM0258,Diya Jha,Female,74,Meerut,Commerce,B.Com
+GU2025CS0259,Tanvi Chauhan,Female,57,Ghaziabad,Computer Science,B.Tech CSE
+GU2024CA0260,Saurabh Tiwari,Male,75,Ghaziabad,Computer Applications,MCA
+GU2025IT0261,Shreya Gupta,Female,63,Kolkata,Information Technology,B.Tech IT
+GU2024EC0262,Anjali Tiwari,Female,61,Noida,Electronics,B.Tech ECE
+GU2025IT0263,Tushar Malhotra,Male,78,Greater Noida,Information Technology,B.Tech IT
+GU2025CM0264,Nikhil Yadav,Male,65,Varanasi,Commerce,B.Com
+GU2023EC0265,Arjun Patel,Male,63,Meerut,Electronics,B.Tech ECE
+GU2025CA0266,Aarav Patel,Male,66,Pune,Computer Applications,MCA
+GU2023MG0267,Riya Reddy,Female,59,Mumbai,Management,BBA
+GU2024EC0268,Aarav Rawat,Other,78,Kanpur,Electronics,B.Tech ECE
+GU2025CM0269,Rohan Malhotra,Other,54,Meerut,Commerce,B.Com
+GU2024ME0270,Rahul Nair,Male,78,Ghaziabad,Mechanical,B.Tech ME
+GU2025CM0271,Anand Kumar,Male,75,Ghaziabad,Commerce,B.Com
+GU2023EC0272,Nikhil Chauhan,Male,50,Ghaziabad,Electronics,B.Tech ECE
+GU2023IT0273,Sakshi Singh,Female,63,Ghaziabad,Information Technology,B.Tech IT
+GU2025CA0274,Rohan Nair,Male,82,Jaipur,Computer Applications,BCA
+GU2024IT0275,Isha Patel,Female,35,Chennai,Information Technology,B.Tech IT
+GU2023CS0276,Arjun Nair,Male,76,Lucknow,Computer Science,B.Tech CSE
+GU2024ME0277,Anand Singh,Male,72,Ghaziabad,Mechanical,B.Tech ME
+GU2023CM0278,Manish Desai,Male,60,Bengaluru,Commerce,M.Com
+GU2024CA0279,Suraj Verma,Male,64,Varanasi,Computer Applications,MCA
+GU2024ME0280,Tanvi Agarwal,Female,70,Meerut,Mechanical,B.Tech ME
+GU2024CM0281,Komal Singh,Female,61,Varanasi,Commerce,B.Com
+GU2024CS0282,Deepak Rawat,Male,61,Hyderabad,Computer Science,M.Tech CSE
+GU2023IT0283,Harsh Nair,Male,74,Mumbai,Information Technology,B.Tech IT
+GU2024EC0284,Diya Verma,Female,78,Pune,Electronics,B.Tech ECE
+GU2025EC0285,Manish Reddy,Male,80,Ghaziabad,Electronics,B.Tech ECE
+GU2025CA0286,Diya Desai,Female,69,Pune,Computer Applications,MCA
+GU2024MG0287,Tushar Verma,Male,70,Pune,Management,MBA
+GU2024CA0288,Tushar Kumar,Male,73,Pune,Computer Applications,BCA
+GU2024EC0289,Arjun Gupta,Male,91,Mumbai,Electronics,B.Tech ECE
+GU2025CA0290,Rahul Jha,Male,66,Jaipur,Computer Applications,MCA
+GU2025CA0291,Anand Gupta,Male,75,Greater Noida,Computer Applications,MCA
+GU2024ME0292,Priya Reddy,Female,76,Mumbai,Mechanical,B.Tech ME
+GU2025CM0293,Rohan Malhotra,Male,68,Chennai,Commerce,B.Com
+GU2025CM0294,Nisha Agarwal,Female,56,Noida,Commerce,M.Com
+GU2025MG0295,Diya Iyer,Female,73,Jaipur,Management,BBA
+GU2024CM0296,Neha Singh,Female,72,Mumbai,Commerce,B.Com
+GU2024ME0297,Kavya Yadav,Female,65,Hyderabad,Mechanical,B.Tech ME
+GU2024EC0298,Aditi Reddy,Female,69,Bengaluru,Electronics,B.Tech ECE
+GU2024ME0299,Amit Patel,Male,71,Agra,Mechanical,B.Tech ME
+GU2024CM0300,Manish Rawat,Male,79,Chennai,Commerce,M.Com
+GU2023IT0301,Pranav Agarwal,Male,65,Varanasi,Information Technology,B.Tech IT
+GU2024IT0302,Meera Gupta,Female,60,Bengaluru,Information Technology,B.Tech IT
+GU2025CS0303,Anand Gupta,Male,73,Chennai,Computer Science,B.Tech CSE
+GU2023EC0304,Amit Desai,Male,79,Jaipur,Electronics,B.Tech ECE
+GU2023ME0305,Nikhil Patel,Male,58,Lucknow,Mechanical,B.Tech ME
+GU2023EC0306,Kavya Tiwari,Female,65,Meerut,Electronics,B.Tech ECE
+GU2023CS0307,Sahil Patel,Male,90,Mumbai,Computer Science,M.Tech CSE
+GU2025IT0308,Shreya Desai,Female,52,Varanasi,Information Technology,B.Tech IT
+GU2024CA0309,Amit Iyer,Male,63,Lucknow,Computer Applications,BCA
+GU2024IT0310,Aarav Jha,Male,59,Lucknow,Information Technology,B.Tech IT
+GU2025MG0311,Suraj Yadav,Male,86,Agra,Management,MBA
+GU2025ME0312,Saurabh Chauhan,Male,79,Kanpur,Mechanical,B.Tech ME
+GU2025EC0313,Diya Pandey,Female,53,Pune,Electronics,B.Tech ECE
+GU2025CS0314,Kavya Patel,Female,67,Noida,Computer Science,B.Tech CSE
+GU2023IT0315,Tushar Singh,Male,78,Lucknow,Information Technology,B.Tech IT
+GU2023CA0316,Saurabh Patel,Male,67,Noida,Computer Applications,BCA
+GU2024EC0317,Nikhil Desai,Male,90,Ghaziabad,Electronics,B.Tech ECE
+GU2023EC0318,Rohan Reddy,Male,57,Noida,Electronics,B.Tech ECE
+GU2023CS0319,Karan Kumar,Male,97,Lucknow,Computer Science,M.Tech CSE
+GU2024MG0320,Priya Desai,Female,64,Mumbai,Management,MBA
+GU2023CS0321,Pooja Verma,Female,86,Greater Noida,Computer Science,B.Tech CSE
+GU2025EC0322,Amit Desai,Male,84,Noida,Electronics,B.Tech ECE
+GU2023CA0323,Sahil Rawat,Male,59,Pune,Computer Applications,MCA
+GU2023EC0324,Isha Kumar,Female,74,Pune,Electronics,B.Tech ECE
+GU2025ME0325,Diya Malhotra,Female,70,Agra,Mechanical,B.Tech ME
+GU2023CS0326,Vikram Reddy,Male,93,Mumbai,Computer Science,B.Tech CSE
+GU2025CS0327,Anjali Kumar,Female,59,Greater Noida,Computer Science,B.Tech CSE
+GU2024CS0328,Harsh Nair,Male,67,Meerut,Computer Science,M.Tech CSE
+GU2023CM0329,Sakshi Gupta,Female,62,Chennai,Commerce,B.Com
+GU2025CS0330,Rahul Chauhan,Male,55,Pune,Computer Science,B.Tech CSE
+GU2024CA0331,Pranav Yadav,Other,73,Mumbai,Computer Applications,BCA
+GU2025MG0332,Harsh Iyer,Male,48,Noida,Management,BBA
+GU2023EC0333,Vivek Rawat,Male,62,Noida,Electronics,B.Tech ECE
+GU2024CS0334,Isha Agarwal,Female,71,Lucknow,Computer Science,B.Tech CSE
+GU2023CS0335,Aanya Verma,Female,69,Kanpur,Computer Science,B.Tech CSE
+GU2023MG0336,Arjun Kumar,Male,87,Noida,Management,MBA
+GU2024CS0337,Kavya Jha,Female,71,Chennai,Computer Science,M.Tech CSE
+GU2023MG0338,Sneha Tiwari,Female,74,Noida,Management,MBA
+GU2023IT0339,Aditya Patel,Male,62,Chennai,Information Technology,B.Tech IT
+GU2024IT0340,Sahil Yadav,Male,88,Greater Noida,Information Technology,B.Tech IT
+GU2023EC0341,Shreya Mishra,Female,77,Meerut,Electronics,B.Tech ECE
+GU2025CA0342,Deepak Desai,Male,85,Noida,Computer Applications,BCA
+GU2024EC0343,Aarav Mishra,Male,79,Pune,Electronics,B.Tech ECE
+GU2024CM0344,Aditya Mishra,Male,66,Lucknow,Commerce,M.Com
+GU2024ME0345,Tushar Malhotra,Male,55,Kanpur,Mechanical,B.Tech ME
+GU2023CM0346,Suraj Jha,Male,91,Mumbai,Commerce,B.Com
+GU2025CS0347,Aditya Jha,Male,83,Pune,Computer Science,M.Tech CSE
+GU2025EC0348,Manish Rawat,Male,78,Greater Noida,Electronics,B.Tech ECE
+GU2025CM0349,Deepak Patel,Male,64,Mumbai,Commerce,M.Com
+GU2024EC0350,Rahul Sharma,Male,66,Chennai,Electronics,B.Tech ECE
+GU2025CA0351,Vivek Tiwari,Male,78,Varanasi,Computer Applications,BCA
+GU2023CS0352,Suraj Verma,Male,49,Kolkata,Computer Science,B.Tech CSE
+GU2025MG0353,Aditya Nair,Male,64,Meerut,Management,MBA
+GU2025CM0354,Riya Tiwari,Female,75,Varanasi,Commerce,M.Com
+GU2024MG0355,Pooja Singh,Female,65,Greater Noida,Management,MBA
+GU2025ME0356,Anand Rawat,Male,76,Noida,Mechanical,B.Tech ME
+GU2024CM0357,Harsh Rawat,Male,68,Varanasi,Commerce,B.Com
+GU2024CM0358,Ananya Bhatia,Female,84,Bengaluru,Commerce,B.Com
+GU2023MG0359,Aditi Reddy,Female,60,Greater Noida,Management,BBA
+GU2025CS0360,Isha Tiwari,Female,75,Ghaziabad,Computer Science,M.Tech CSE
+GU2024CM0361,Aditya Malhotra,Male,67,Varanasi,Commerce,B.Com
+GU2024CM0362,Vivek Sharma,Male,65,Jaipur,Commerce,B.Com
+GU2025EC0363,Ankit Pandey,Male,72,Ghaziabad,Electronics,B.Tech ECE
+GU2024MG0364,Manish Tiwari,Male,68,Meerut,Management,BBA
+GU2023ME0365,Aditya Rawat,Male,52,Jaipur,Mechanical,B.Tech ME
+GU2023ME0366,Karan Reddy,Male,94,Ghaziabad,Mechanical,B.Tech ME
+GU2025EC0367,Saurabh Iyer,Male,81,Varanasi,Electronics,B.Tech ECE
+GU2023ME0368,Manish Gupta,Other,62,Agra,Mechanical,B.Tech ME
+GU2024MG0369,Pooja Iyer,Female,72,Mumbai,Management,BBA
+GU2024IT0370,Nisha Verma,Female,53,Ghaziabad,Information Technology,B.Tech IT
+GU2023EC0371,Ananya Iyer,Female,81,Chennai,Electronics,B.Tech ECE
+GU2025MG0372,Deepak Patel,Other,68,Kanpur,Management,BBA
+GU2023EC0373,Anjali Bhatia,Female,81,Kanpur,Electronics,B.Tech ECE
+GU2025CA0374,Pranav Gupta,Male,76,Bengaluru,Computer Applications,MCA
+GU2025CM0375,Neha Tiwari,Female,52,Mumbai,Commerce,M.Com
+GU2025CM0376,Aarav Tiwari,Male,69,Hyderabad,Commerce,B.Com
+GU2023CM0377,Neha Kumar,Female,73,Chennai,Commerce,M.Com
+GU2024CS0378,Neha Malhotra,Female,50,Mumbai,Computer Science,M.Tech CSE
+GU2023CS0379,Harsh Desai,Male,55,Chennai,Computer Science,B.Tech CSE
+GU2025CM0380,Komal Rawat,Female,72,Noida,Commerce,M.Com
+GU2025CM0381,Anand Desai,Male,81,Meerut,Commerce,B.Com
+GU2025CM0382,Rohan Iyer,Male,68,Mumbai,Commerce,M.Com
+GU2024ME0383,Saurabh Chauhan,Male,67,Kanpur,Mechanical,B.Tech ME
+GU2023MG0384,Sahil Bhatia,Male,85,Kolkata,Management,MBA
+GU2025ME0385,Simran Gupta,Female,87,Mumbai,Mechanical,B.Tech ME
+GU2025CM0386,Meera Kumar,Female,65,Hyderabad,Commerce,M.Com
+GU2024ME0387,Rahul Patel,Other,73,Greater Noida,Mechanical,B.Tech ME
+GU2023IT0388,Aditi Agarwal,Female,55,Kolkata,Information Technology,B.Tech IT
+GU2023CM0389,Saurabh Yadav,Male,58,Chennai,Commerce,M.Com
+GU2023ME0390,Diya Bhatia,Female,60,Noida,Mechanical,B.Tech ME
+GU2023CA0391,Pooja Chauhan,Female,61,Pune,Computer Applications,MCA
+GU2023ME0392,Simran Rawat,Female,75,Jaipur,Mechanical,B.Tech ME
+GU2023CM0393,Aarav Singh,Male,66,Meerut,Commerce,B.Com
+GU2025IT0394,Tushar Sharma,Male,66,Jaipur,Information Technology,B.Tech IT
+GU2024MG0395,Nikhil Agarwal,Male,78,Kolkata,Management,MBA
+GU2025CM0396,Tushar Jha,Male,44,Pune,Commerce,M.Com
+GU2025CS0397,Aanya Yadav,Female,79,Chennai,Computer Science,B.Tech CSE
+GU2024EC0398,Divya Mishra,Female,66,Pune,Electronics,B.Tech ECE
+GU2024ME0399,Aditya Tiwari,Male,62,Delhi,Mechanical,B.Tech ME
+GU2023MG0400,Sakshi Patel,Female,75,Ghaziabad,Management,BBA
+GU2025IT0401,Aditi Desai,Female,71,Ghaziabad,Information Technology,B.Tech IT
+GU2025EC0402,Anjali Mishra,Female,65,Varanasi,Electronics,B.Tech ECE
+GU2024CA0403,Aanya Verma,Female,70,Greater Noida,Computer Applications,BCA
+GU2024IT0404,Karan Jha,Male,60,Varanasi,Information Technology,B.Tech IT
+GU2023CA0405,Saurabh Patel,Male,67,Ghaziabad,Computer Applications,BCA
+GU2025EC0406,Anand Malhotra,Male,74,Kanpur,Electronics,B.Tech ECE
+GU2024EC0407,Ankit Malhotra,Male,53,Kanpur,Electronics,B.Tech ECE
+GU2025IT0408,Pranav Verma,Male,65,Delhi,Information Technology,B.Tech IT
+GU2025ME0409,Sahil Chauhan,Male,61,Chennai,Mechanical,B.Tech ME
+GU2025CA0410,Karan Patel,Male,51,Meerut,Computer Applications,MCA
+GU2024CA0411,Aditya Iyer,Male,58,Jaipur,Computer Applications,BCA
+GU2023ME0412,Rohan Iyer,Other,67,Greater Noida,Mechanical,B.Tech ME
+GU2025MG0413,Kavya Malhotra,Female,93,Delhi,Management,BBA
+GU2023ME0414,Karan Reddy,Male,66,Chennai,Mechanical,B.Tech ME
+GU2023CM0415,Anand Sharma,Other,71,Meerut,Commerce,M.Com
+GU2023ME0416,Harsh Agarwal,Male,85,Ghaziabad,Mechanical,B.Tech ME
+GU2023CM0417,Karan Mishra,Male,57,Lucknow,Commerce,B.Com
+GU2025MG0418,Pooja Reddy,Female,84,Mumbai,Management,BBA
+GU2025MG0419,Pooja Agarwal,Female,69,Delhi,Management,MBA
+GU2025MG0420,Ankit Rawat,Male,69,Agra,Management,MBA
+GU2025EC0421,Ananya Tiwari,Female,63,Noida,Electronics,B.Tech ECE
+GU2024CA0422,Karan Rawat,Male,94,Ghaziabad,Computer Applications,MCA
+GU2023CM0423,Aanya Reddy,Female,81,Bengaluru,Commerce,M.Com
+GU2025CA0424,Aarav Chauhan,Male,73,Pune,Computer Applications,MCA
+GU2023ME0425,Tushar Desai,Male,69,Kanpur,Mechanical,B.Tech ME
+GU2025EC0426,Vivek Gupta,Male,70,Delhi,Electronics,B.Tech ECE
+GU2025CS0427,Karan Bhatia,Male,63,Pune,Computer Science,B.Tech CSE
+GU2024CM0428,Rohan Yadav,Male,73,Agra,Commerce,B.Com
+GU2023ME0429,Isha Rawat,Female,71,Mumbai,Mechanical,B.Tech ME
+GU2023ME0430,Isha Jha,Female,70,Meerut,Mechanical,B.Tech ME
+GU2023EC0431,Rohan Nair,Male,88,Bengaluru,Electronics,B.Tech ECE
+GU2024EC0432,Manish Singh,Male,78,Greater Noida,Electronics,B.Tech ECE
+GU2023EC0433,Anand Sharma,Male,78,Hyderabad,Electronics,B.Tech ECE
+GU2023MG0434,Harsh Yadav,Male,42,Bengaluru,Management,MBA
+GU2024MG0435,Kavya Verma,Female,66,Ghaziabad,Management,MBA
+GU2023CM0436,Aanya Kumar,Female,78,Ghaziabad,Commerce,B.Com
+GU2025CM0437,Diya Patel,Female,61,Varanasi,Commerce,M.Com
+GU2024CS0438,Divya Yadav,Female,54,Bengaluru,Computer Science,M.Tech CSE
+GU2025EC0439,Vivek Bhatia,Male,61,Bengaluru,Electronics,B.Tech ECE
+GU2023CS0440,Aarav Kumar,Male,64,Pune,Computer Science,M.Tech CSE
+GU2024ME0441,Meera Pandey,Female,58,Greater Noida,Mechanical,B.Tech ME
+GU2024CA0442,Aanya Kumar,Female,64,Greater Noida,Computer Applications,BCA
+GU2023CA0443,Isha Reddy,Female,64,Hyderabad,Computer Applications,MCA
+GU2025IT0444,Isha Agarwal,Female,45,Chennai,Information Technology,B.Tech IT
+GU2025ME0445,Neha Yadav,Female,53,Hyderabad,Mechanical,B.Tech ME
+GU2025EC0446,Neha Patel,Female,57,Pune,Electronics,B.Tech ECE
+GU2024CM0447,Vivek Yadav,Male,64,Varanasi,Commerce,B.Com
+GU2023ME0448,Diya Singh,Female,60,Greater Noida,Mechanical,B.Tech ME
+GU2023EC0449,Tushar Mishra,Male,74,Noida,Electronics,B.Tech ECE
+GU2024ME0450,Diya Chauhan,Female,77,Kanpur,Mechanical,B.Tech ME
+GU2024MG0451,Aanya Jha,Female,71,Chennai,Management,BBA
+GU2025CS0452,Ankit Reddy,Male,51,Agra,Computer Science,B.Tech CSE
+GU2025ME0453,Rahul Chauhan,Male,64,Jaipur,Mechanical,B.Tech ME
+GU2024CA0454,Tanvi Kumar,Female,72,Kolkata,Computer Applications,MCA
+GU2023EC0455,Sneha Singh,Female,64,Lucknow,Electronics,B.Tech ECE
+GU2023EC0456,Kavya Desai,Female,54,Lucknow,Electronics,B.Tech ECE
+GU2025EC0457,Pranav Pandey,Male,93,Kolkata,Electronics,B.Tech ECE
+GU2025CS0458,Arjun Gupta,Male,70,Lucknow,Computer Science,B.Tech CSE
+GU2024CS0459,Anand Verma,Male,78,Lucknow,Computer Science,M.Tech CSE
+GU2024EC0460,Vivek Agarwal,Male,64,Bengaluru,Electronics,B.Tech ECE
+GU2024MG0461,Anjali Mishra,Female,58,Hyderabad,Management,BBA
+GU2025CS0462,Amit Malhotra,Male,68,Agra,Computer Science,B.Tech CSE
+GU2023IT0463,Ananya Nair,Female,78,Jaipur,Information Technology,B.Tech IT
+GU2025CS0464,Aanya Mishra,Female,80,Varanasi,Computer Science,B.Tech CSE
+GU2024MG0465,Saurabh Tiwari,Male,81,Kanpur,Management,BBA
+GU2024CS0466,Aditi Reddy,Female,73,Meerut,Computer Science,B.Tech CSE
+GU2023IT0467,Anand Desai,Male,81,Hyderabad,Information Technology,B.Tech IT
+GU2024EC0468,Diya Bhatia,Female,82,Ghaziabad,Electronics,B.Tech ECE
+GU2024CM0469,Nikhil Iyer,Male,74,Jaipur,Commerce,M.Com
+GU2023EC0470,Aditya Patel,Male,51,Agra,Electronics,B.Tech ECE
+GU2025IT0471,Riya Nair,Female,76,Kolkata,Information Technology,B.Tech IT
+GU2023CS0472,Diya Reddy,Female,73,Jaipur,Computer Science,B.Tech CSE
+GU2023EC0473,Deepak Sharma,Male,54,Mumbai,Electronics,B.Tech ECE
+GU2023EC0474,Saurabh Gupta,Male,51,Greater Noida,Electronics,B.Tech ECE
+GU2024CS0475,Deepak Agarwal,Male,80,Pune,Computer Science,M.Tech CSE
+GU2023IT0476,Tushar Singh,Male,71,Mumbai,Information Technology,B.Tech IT
+GU2023MG0477,Arjun Nair,Male,75,Jaipur,Management,BBA
+GU2025IT0478,Sneha Malhotra,Female,83,Delhi,Information Technology,B.Tech IT
+GU2025EC0479,Kavya Mishra,Female,56,Chennai,Electronics,B.Tech ECE
+GU2023CA0480,Pooja Jha,Female,66,Chennai,Computer Applications,BCA
+GU2025CS0481,Tushar Kumar,Male,70,Mumbai,Computer Science,M.Tech CSE
+GU2023MG0482,Suraj Rawat,Male,57,Meerut,Management,MBA
+GU2024CA0483,Tushar Mishra,Male,60,Hyderabad,Computer Applications,MCA
+GU2025EC0484,Vikram Singh,Male,83,Lucknow,Electronics,B.Tech ECE
+GU2024ME0485,Sakshi Patel,Female,100,Bengaluru,Mechanical,B.Tech ME
+GU2025CM0486,Vikram Mishra,Male,69,Kolkata,Commerce,B.Com
+GU2024ME0487,Diya Mishra,Female,71,Greater Noida,Mechanical,B.Tech ME
+GU2024EC0488,Sneha Tiwari,Female,94,Pune,Electronics,B.Tech ECE
+GU2025EC0489,Nikhil Malhotra,Male,61,Mumbai,Electronics,B.Tech ECE
+GU2025ME0490,Manish Rawat,Male,51,Pune,Mechanical,B.Tech ME
+GU2023CA0491,Isha Chauhan,Female,75,Ghaziabad,Computer Applications,BCA
+GU2024IT0492,Anand Rawat,Male,72,Agra,Information Technology,B.Tech IT
+GU2023CS0493,Vikram Tiwari,Male,65,Noida,Computer Science,B.Tech CSE
+GU2025CS0494,Deepak Gupta,Male,47,Jaipur,Computer Science,B.Tech CSE
+GU2023CA0495,Rohan Reddy,Male,71,Noida,Computer Applications,MCA
+GU2024IT0496,Kavya Mishra,Female,59,Meerut,Information Technology,B.Tech IT
+GU2023MG0497,Harsh Malhotra,Male,78,Meerut,Management,BBA
+GU2023CA0498,Komal Verma,Female,53,Jaipur,Computer Applications,MCA
+GU2025IT0499,Simran Gupta,Female,76,Hyderabad,Information Technology,B.Tech IT
+GU2023CS0500,Aanya Malhotra,Female,58,Kolkata,Computer Science,M.Tech CSE
+GU2024CA0501,Ankit Iyer,Male,55,Jaipur,Computer Applications,BCA
+GU2025IT0502,Vivek Agarwal,Male,77,Kolkata,Information Technology,B.Tech IT
+GU2023MG0503,Anand Verma,Male,65,Ghaziabad,Management,MBA
+GU2025CS0504,Anjali Sharma,Female,78,Greater Noida,Computer Science,B.Tech CSE
+GU2023IT0505,Manish Mishra,Male,57,Kolkata,Information Technology,B.Tech IT
+GU2024CA0506,Ankit Nair,Male,74,Lucknow,Computer Applications,MCA
+GU2025CM0507,Suraj Patel,Male,35,Delhi,Commerce,M.Com
+GU2023MG0508,Riya Rawat,Female,64,Agra,Management,BBA
+GU2025ME0509,Deepak Singh,Male,53,Hyderabad,Mechanical,B.Tech ME
+GU2023CA0510,Pranav Kumar,Male,51,Hyderabad,Computer Applications,MCA
+GU2025CM0511,Ananya Patel,Female,65,Kolkata,Commerce,M.Com
+GU2024CS0512,Tushar Rawat,Male,67,Ghaziabad,Computer Science,M.Tech CSE
+GU2023MG0513,Suraj Nair,Male,73,Kolkata,Management,MBA
+GU2025ME0514,Harsh Sharma,Male,79,Kanpur,Mechanical,B.Tech ME
+GU2025CM0515,Deepak Desai,Male,46,Jaipur,Commerce,B.Com
+GU2025CM0516,Sahil Verma,Male,98,Kanpur,Commerce,B.Com
+GU2025CA0517,Rohan Kumar,Male,93,Kolkata,Computer Applications,BCA
+GU2025CS0518,Komal Kumar,Female,87,Mumbai,Computer Science,M.Tech CSE
+GU2023CM0519,Sahil Mishra,Male,68,Delhi,Commerce,B.Com
+GU2025CM0520,Aanya Patel,Female,62,Noida,Commerce,M.Com
+GU2025CM0521,Vivek Nair,Male,68,Chennai,Commerce,B.Com
+GU2023MG0522,Tanvi Chauhan,Female,64,Noida,Management,BBA
+GU2023MG0523,Simran Malhotra,Female,76,Ghaziabad,Management,MBA
+GU2023CS0524,Karan Tiwari,Other,78,Kanpur,Computer Science,B.Tech CSE
+GU2023EC0525,Priya Desai,Female,66,Pune,Electronics,B.Tech ECE
+GU2025CA0526,Diya Verma,Female,52,Delhi,Computer Applications,MCA
+GU2024CM0527,Sneha Malhotra,Female,71,Agra,Commerce,M.Com
+GU2025MG0528,Aarav Agarwal,Male,52,Kolkata,Management,MBA
+GU2024EC0529,Anjali Pandey,Female,82,Greater Noida,Electronics,B.Tech ECE
+GU2024ME0530,Ananya Patel,Female,58,Mumbai,Mechanical,B.Tech ME
+GU2024IT0531,Kavya Patel,Female,67,Noida,Information Technology,B.Tech IT
+GU2025ME0532,Vivek Agarwal,Male,48,Meerut,Mechanical,B.Tech ME
+GU2024ME0533,Aarav Nair,Male,52,Mumbai,Mechanical,B.Tech ME
+GU2024EC0534,Diya Gupta,Female,77,Pune,Electronics,B.Tech ECE
+GU2024IT0535,Simran Verma,Female,82,Agra,Information Technology,B.Tech IT
+GU2023MG0536,Anjali Malhotra,Female,83,Bengaluru,Management,BBA
+GU2023IT0537,Vikram Rawat,Male,68,Ghaziabad,Information Technology,B.Tech IT
+GU2024CS0538,Anand Bhatia,Male,65,Meerut,Computer Science,B.Tech CSE
+GU2025CM0539,Diya Gupta,Female,64,Ghaziabad,Commerce,M.Com
+GU2023ME0540,Manish Patel,Male,66,Lucknow,Mechanical,B.Tech ME
+GU2024CA0541,Aditi Sharma,Female,67,Greater Noida,Computer Applications,MCA
+GU2024EC0542,Amit Bhatia,Male,65,Lucknow,Electronics,B.Tech ECE
+GU2023EC0543,Shreya Chauhan,Female,70,Meerut,Electronics,B.Tech ECE
+GU2023CA0544,Divya Reddy,Female,57,Kolkata,Computer Applications,BCA
+GU2024CS0545,Aanya Desai,Female,78,Kanpur,Computer Science,B.Tech CSE
+GU2024CA0546,Aarav Mishra,Male,65,Hyderabad,Computer Applications,BCA
+GU2023EC0547,Aanya Jha,Female,63,Greater Noida,Electronics,B.Tech ECE
+GU2024IT0548,Rahul Tiwari,Male,67,Meerut,Information Technology,B.Tech IT
+GU2023CS0549,Deepak Singh,Male,64,Pune,Computer Science,M.Tech CSE
+GU2023MG0550,Harsh Verma,Male,67,Pune,Management,BBA
+GU2024MG0551,Ananya Pandey,Female,70,Kanpur,Management,BBA
+GU2024CA0552,Ananya Yadav,Female,91,Ghaziabad,Computer Applications,MCA
+GU2025MG0553,Arjun Tiwari,Male,51,Greater Noida,Management,MBA
+GU2025ME0554,Nisha Yadav,Female,81,Kolkata,Mechanical,B.Tech ME
+GU2025CS0555,Harsh Tiwari,Male,82,Pune,Computer Science,B.Tech CSE
+GU2025EC0556,Ananya Malhotra,Female,67,Bengaluru,Electronics,B.Tech ECE
+GU2023CS0557,Vikram Iyer,Male,77,Kolkata,Computer Science,B.Tech CSE
+GU2024CA0558,Anjali Reddy,Female,68,Ghaziabad,Computer Applications,MCA
+GU2025CM0559,Rahul Sharma,Male,67,Lucknow,Commerce,B.Com
+GU2025ME0560,Pranav Reddy,Male,94,Greater Noida,Mechanical,B.Tech ME
+GU2024CM0561,Aditi Mishra,Female,78,Meerut,Commerce,B.Com
+GU2024IT0562,Vikram Malhotra,Male,49,Chennai,Information Technology,B.Tech IT
+GU2024CS0563,Harsh Pandey,Male,63,Lucknow,Computer Science,M.Tech CSE
+GU2024ME0564,Rohan Bhatia,Male,82,Meerut,Mechanical,B.Tech ME
+GU2024CM0565,Nisha Nair,Female,76,Ghaziabad,Commerce,B.Com
+GU2023ME0566,Nisha Gupta,Female,40,Ghaziabad,Mechanical,B.Tech ME
+GU2023ME0567,Kavya Yadav,Female,76,Chennai,Mechanical,B.Tech ME
+GU2025ME0568,Anjali Patel,Female,53,Delhi,Mechanical,B.Tech ME
+GU2025CA0569,Arjun Yadav,Male,74,Meerut,Computer Applications,BCA
+GU2024ME0570,Manish Pandey,Male,71,Meerut,Mechanical,B.Tech ME
+GU2023CS0571,Rohan Rawat,Male,61,Mumbai,Computer Science,B.Tech CSE
+GU2025CS0572,Komal Kumar,Female,59,Jaipur,Computer Science,B.Tech CSE
+GU2024IT0573,Sahil Iyer,Male,75,Greater Noida,Information Technology,B.Tech IT
+GU2025IT0574,Arjun Verma,Male,81,Kanpur,Information Technology,B.Tech IT
+GU2024CS0575,Rahul Malhotra,Male,77,Greater Noida,Computer Science,B.Tech CSE
+GU2023MG0576,Isha Desai,Female,91,Mumbai,Management,BBA
+GU2025CA0577,Shreya Tiwari,Female,62,Kanpur,Computer Applications,MCA
+GU2023CM0578,Arjun Bhatia,Male,73,Jaipur,Commerce,B.Com
+GU2025ME0579,Sakshi Iyer,Female,69,Chennai,Mechanical,B.Tech ME
+GU2025IT0580,Shreya Sharma,Female,74,Bengaluru,Information Technology,B.Tech IT
+GU2025ME0581,Anand Gupta,Male,69,Meerut,Mechanical,B.Tech ME
+GU2025CA0582,Pooja Nair,Female,78,Agra,Computer Applications,BCA
+GU2025ME0583,Rahul Jha,Male,50,Meerut,Mechanical,B.Tech ME
+GU2024IT0584,Shreya Desai,Female,72,Meerut,Information Technology,B.Tech IT
+GU2025IT0585,Saurabh Reddy,Male,80,Pune,Information Technology,B.Tech IT
+GU2023CS0586,Aditya Desai,Male,58,Bengaluru,Computer Science,M.Tech CSE
+GU2025EC0587,Aditya Patel,Male,73,Hyderabad,Electronics,B.Tech ECE
+GU2025CM0588,Sakshi Chauhan,Female,61,Varanasi,Commerce,M.Com
+GU2024CA0589,Deepak Mishra,Male,57,Agra,Computer Applications,BCA
+GU2025CA0590,Amit Mishra,Male,67,Kanpur,Computer Applications,BCA
+GU2025IT0591,Nisha Sharma,Female,94,Chennai,Information Technology,B.Tech IT
+GU2024CA0592,Nikhil Chauhan,Other,64,Jaipur,Computer Applications,MCA
+GU2023MG0593,Aditi Iyer,Female,72,Mumbai,Management,BBA
+GU2023CS0594,Manish Patel,Male,52,Kanpur,Computer Science,M.Tech CSE
+GU2023EC0595,Amit Malhotra,Male,70,Pune,Electronics,B.Tech ECE
+GU2023ME0596,Deepak Mishra,Male,76,Mumbai,Mechanical,B.Tech ME
+GU2025IT0597,Saurabh Reddy,Male,84,Varanasi,Information Technology,B.Tech IT
+GU2023EC0598,Saurabh Patel,Male,67,Hyderabad,Electronics,B.Tech ECE
+GU2024ME0599,Neha Gupta,Female,70,Delhi,Mechanical,B.Tech ME
+GU2023MG0600,Pooja Reddy,Female,68,Chennai,Management,MBA
